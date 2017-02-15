@@ -4,8 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 using System.Xml;
-using System.Xml.XPath; 
-using Microsoft.AspNetCore.Diagnostics.Views;
+using System.Xml.XPath;  
 
 namespace HtmlAgilityPack
 {
